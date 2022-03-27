@@ -20,6 +20,6 @@
  	<a href="https://www.twitch.tv/iguvt" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-edwards-867227213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/igore91)
+  ![Snake animation](https://github.com/igore91/igore91/blob/output/github-contribution-grid-snake.svg)
  
 </div>
