@@ -9,7 +9,7 @@
   <img align="center" alt="igu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="igu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="igu-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/8bn9U7Py7qAAAAAi/vibe-nezuko.gif">
+  <img align="right" alt="igu-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/_nGveh1fF3sAAAAi/nitro.gif">
 </div>
   
   ##
